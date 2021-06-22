@@ -10,7 +10,7 @@
 - [Rut.js](https://www.npmjs.com/package/rut.js)
 - [Bootstrap-Vue](https://www.npmjs.com/package/bootstrap-vue)
 
-## Installation
+## Instalación
 
 Instalar las dependencias.
 
